@@ -2,7 +2,7 @@
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
-updater = Updater("5986062274:AAGVzv1gL28vOhvooXaI6iK0KIl5YW5QmP0")
+updater = Updater("TOKEN")
 
 mas = [['1', '2', '3'], ['4', '5', '6'], ['7', '8', '9']]
 pc = 1
